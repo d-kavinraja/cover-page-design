@@ -1,0 +1,75 @@
+.bookpage{
+    width: 400px;
+    height: 600px;
+    background-color: #3d3a3a;
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(/static/images/back.jpg);
+    background-size: cover;
+}
+    
+
+.toptext{
+    color:white;
+
+}
+
+
+.tophr{
+    width:140px;
+}
+.author{
+    color: white;
+    display: inline;
+    position: relative;
+    color:lightblue;
+    top:190px;
+    
+    font-family:Georgia;
+    font-size: medium;
+}
+.booktitle{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-align: center;
+    position: relative;
+    top: 30px;
+
+}
+.id {
+    width:400px;
+    position: relative;
+    top:180px;
+    
+}
+.publisher{
+    font-size: medium;
+    position: relative;
+    top:155px;
+    left:330px;
+}
+.edition{
+    color:red;
+    font-size: medium;
+    font-family: Verdana;
+    position:relative;
+    top:85px;
+
+}
+.subtitle{
+    font-family:Tahoma;
+    font-size: large;
+    position: relative;
+    top:40px;
+}
+.photo{
+    position: relative;
+    top: 135px;
+    left: 260px;
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+}
